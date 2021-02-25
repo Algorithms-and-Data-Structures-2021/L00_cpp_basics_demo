@@ -1,5 +1,7 @@
 # Демо код занятия № 00 - Основы C++ (Часть 0)
 
+![Build status](https://github.com/Algorithms-and-Data-Structures-2021/L00_cpp_basics_demo/actions/workflows/cmake.yml/badge.svg)
+
 Материалы занятия доступны по [ссылке](https://www.notion.so/L00-Introduction-to-C-689f613bb4d94b24b2f64bc3f1cf7c9d).
 
 Рассмотрены следующие темы:
