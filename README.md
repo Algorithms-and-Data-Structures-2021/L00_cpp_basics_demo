@@ -1,4 +1,4 @@
-# Демо код занятия № 00 - Основы C++ (Часть 0)
+# Основы C++ (Часть 0)
 
 ![Build status](https://github.com/Algorithms-and-Data-Structures-2021/L00_cpp_basics_demo/actions/workflows/cmake.yml/badge.svg)
 
